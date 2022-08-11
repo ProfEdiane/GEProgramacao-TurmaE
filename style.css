@@ -1,18 +1,35 @@
 body {
-    background-color: red;
+    background-color: #D57DF5;
 }
-h1, h2 {
+h1 {
     text-align: center;
     font-size: 30px;
 }
 
 h1 {
-    color: brown;
+    color: #2F1B36;
 }
 h2 {
-    color: rgb(43, 137, 226);
+    text-align: left;
+    font-size: 30px;
+    color: rgb (102,60,117);
+    border: 5px solid rgba(255, 0, 0, 0.397);
+    padding: 10px;
+    margin-left: 30px;
+    margin-right: 90px;
 }
 p {
  text-align: justify;
  font-size: 25px;
  }
+
+#imagem_principal {
+    width: 10%;
+}
+
+#imagem2 {
+    height: 50%;
+    width: 50;
+    border: 10px dotted rgba(255, 0, 0, 0.397);
+    margin-left: 28%;
+}
