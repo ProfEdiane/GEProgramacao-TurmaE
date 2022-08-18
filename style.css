@@ -22,6 +22,19 @@ p {
  text-align: justify;
  font-size: 25px;
  }
+#A {
+    text-align: center;
+}
+h3 {
+    font-size: 30px;
+    color: blue;
+    }
+.itens{
+    color: blue;
+    font-size: 25px;
+    font-style: italic;
+    
+}
 
 #imagem_principal {
     width: 10%;
